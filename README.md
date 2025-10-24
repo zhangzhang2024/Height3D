@@ -14,6 +14,10 @@
 <img src="docs/assets/height3d_fig8.png" width="800" alt="" class="img-responsive">
 </p>
 
+# Overview
+
+Height3D is a roadside visual perception framework based on height prediction in real 3D space. Height Prediction Block (HPB) with explicit height supervision is proposed to predict the height distribution of targets for roadside visual view transform. Also, Spatial Aware Block (SAB) is used to further extract spatial context information in BEV space and enhance fine-grained BEV features. The proposed method achieves the state-of-the-art in two large-scale real-world roadside visual perception benchmarks, DAIR-V2X-I and Rope3D. 
+
 # Getting Started
 
 - [Installation](docs/install.md)
