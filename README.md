@@ -6,7 +6,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Paper](https://img.shields.io/badge/Paper-TITS-00629b.svg)](https://ieeexplore.ieee.org/document/11005676)
-![Repo Visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.Height3D&label=Repo%20Visitors&color=CD5C5C)
+<a href="https://github.com/drive-bench/toolkit" target="_blank">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=drive-bench.toolkit&left_color=gray&right_color=red" alt="visitor badge">
+  </a>
 
 <p align="center">
 <img src="docs/assets/height3d_fig3.png" width="800" alt="" class="img-responsive">
