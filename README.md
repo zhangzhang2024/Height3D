@@ -41,7 +41,7 @@ This project is not possible without the following codebases.
 * [DAIR-V2X](https://github.com/AIR-THU/DAIR-V2X)
 
 # Citation
-If you use Height3D in your research, please cite our work by using the following BibTeX entry:
+If you find our paper and code useful in your research, please consider giving us a star ⭐ and citing our work 📝 :)
 ```
 @article{zhang2025height3d,
   title={Height3d: A roadside visual framework based on height prediction in real 3-d space},
